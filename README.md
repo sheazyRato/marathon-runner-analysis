@@ -22,8 +22,6 @@ The project includes:
 - Bar charts comparing categories  
 - Distribution plots of runners’ finishing times  
 
-*(Add screenshots or sample charts here to make it more engaging!)*  
-
 ---
 
 This is the link to the dataset: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633 
