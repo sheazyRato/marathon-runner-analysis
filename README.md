@@ -1,11 +1,11 @@
-# 🏃‍♂️ Marathon Runners Data Analysis
+#Marathon Runners Data Analysis
 
 This is a **Python data analysis project** exploring marathon runners’ performance.  
 The notebook walks step by step through **data cleaning, organization, and visualization**, highlighting key insights with **line plots, bar charts, and summary statistics**.
 
 ---
 
-## 📖 Project Overview
+##Project Overview
 - **Goal**: Analyze marathon runners’ performance data to uncover trends and insights.  
 - **Steps Covered**:
   1. Importing and exploring the dataset  
@@ -16,7 +16,7 @@ The notebook walks step by step through **data cleaning, organization, and visua
 
 ---
 
-## 📊 Visualizations
+##Visualizations
 The project includes:
 - Line plots of race times  
 - Bar charts comparing categories  
